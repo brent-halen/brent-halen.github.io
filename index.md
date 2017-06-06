@@ -75,6 +75,11 @@ I was tasked with designing, testing, and managing new features for the software
 
 ## Other Training/Certification
 
+### edX:: DAT203x: Data Science and Machine Learning Essentials
+#### Microsoft
+##### Status: Completed
+* [Certificate](https://courses.edx.org/certificates/14d556e3c9fd449aa30b0f5c488c816c?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BNuT8d0m8TO%2BVyWaJxjmAUQ%3D%3D)
+
 ### Coursera: Data Science
 #### Johns Hopikins University
 ##### Status: In Progress
