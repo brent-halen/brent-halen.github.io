@@ -128,8 +128,8 @@ I was tasked with designing, testing, and managing new features for the software
 
 ## Portfolio
 
-* https://brent-halen.github.io/Machine_Learning_Coursera/
-* https://github.com/brent-halen/TimeSeriesProject
-* https://github.com/brent-halen/Data_Visualization_Project_Fall2016
+* [https://brent-halen.github.io/Machine_Learning_Coursera/](https://brent-halen.github.io/Machine_Learning_Coursera/)
+* [https://github.com/brent-halen/TimeSeriesProject](https://github.com/brent-halen/TimeSeriesProject)
+* [https://github.com/brent-halen/Data_Visualization_Project_Fall2016](https://github.com/brent-halen/Data_Visualization_Project_Fall2016)
 
 
