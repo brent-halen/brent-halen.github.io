@@ -1,7 +1,12 @@
-![Personal Photo](https://scontent-dft4-3.xx.fbcdn.net/v/t1.0-9/644198_418227671627639_95278277_n.jpg?oh=214dfafa9188d399590d68fcdef6a427&oe=599F588C)
+---
+layout: page
+title: Brent Halen
+tagline: Data Scientist, Programmer
+description: A resume/portfolio page for Brent Halen, a Data Scientist & Programmer based in Houston, Texas.
+---
 
-# Brent Halen
-#### Data Scientist, Programmer, Tech Enthusiast
+
+![Personal Photo](https://scontent-dft4-3.xx.fbcdn.net/v/t1.0-9/644198_418227671627639_95278277_n.jpg?oh=214dfafa9188d399590d68fcdef6a427&oe=599F588C)
 
 # Resume
 
