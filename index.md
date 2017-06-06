@@ -104,7 +104,7 @@ I was tasked with designing, testing, and managing new features for the software
 
 ### Udacity
 #### Deep Learning Fundamentals
-##### 
+##### Siraj Raval, Udacity Associates
 ###### Status: In Progress (2 of 5 Projects completed)
 
 ## Capabilities 
