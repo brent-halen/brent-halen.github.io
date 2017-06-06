@@ -79,6 +79,22 @@ I was tasked with designing, testing, and managing new features for the software
 #### Johns Hopikins University
 ##### Status: In Progress
 ###### 9 of 10 Courses completed
+* Practical Machine Learning
+    * [Certificate](https://www.coursera.org/account/accomplishments/certificate/VCUXB6VRRUN2)
+* Regression Models
+    * [Certificate](https://www.coursera.org/account/accomplishments/certificate/2QK563U8DFYR)
+* Statistical Inference
+    * [Certificate](https://www.coursera.org/account/accomplishments/certificate/KQZBDUXDLRHV)
+* Reproducible Research
+    * [Certificate](https://www.coursera.org/account/accomplishments/certificate/A93MQ48BY6PC)
+* Exploratory Data Analysis
+    * [Certificate](https://www.coursera.org/account/accomplishments/certificate/KE96K83444PU)
+* The Data Scientist's Toolbox
+    * [Certificate](https://www.coursera.org/account/accomplishments/certificate/W738M8FGQ3FJ)
+* Getting and Cleaning Data
+    * [Certificate](https://www.coursera.org/account/accomplishments/certificate/DRHSVL4FMXWU)
+* R Programming
+    * [Certificate](https://www.coursera.org/account/accomplishments/certificate/C4ZYUKSPT6SC)
 
 ### Deep Learning Fundamentals
 #### Udacity
