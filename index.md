@@ -9,7 +9,7 @@
 ## Work History
 ### Data Scientist
 #### Helioserv, LTD
-##### April 2017 - Present
+##### March 2017 - Present
 
 ###### Summary 
 I work part-time as a data scientist for Helioserv, LTD. My duties involve a wide range of tasks, from machine learning to data engineering. I'm required to work with a variety of programming languages and technologies in order to meet client specifications/requirements.  
@@ -75,15 +75,16 @@ I was tasked with designing, testing, and managing new features for the software
 
 ## Other Training/Certification
 
-### edX:: DAT203x: Data Science and Machine Learning Essentials
-#### Microsoft
-##### Status: Completed
+### edX
+#### DAT203x: Data Science and Machine Learning Essentials
+##### Microsoft
+###### Status: Completed
 * [Certificate](https://courses.edx.org/certificates/14d556e3c9fd449aa30b0f5c488c816c?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BNuT8d0m8TO%2BVyWaJxjmAUQ%3D%3D)
 
-### Coursera: Data Science
-#### Johns Hopikins University
-##### Status: In Progress
-###### 9 of 10 Courses completed
+### Coursera 
+#### Data Science
+##### Johns Hopikins University 
+###### Status: In Progress (9 of 10 Courses completed)
 * Practical Machine Learning
     * [Certificate](https://www.coursera.org/account/accomplishments/certificate/VCUXB6VRRUN2)
 * Regression Models
@@ -101,10 +102,10 @@ I was tasked with designing, testing, and managing new features for the software
 * R Programming
     * [Certificate](https://www.coursera.org/account/accomplishments/certificate/C4ZYUKSPT6SC)
 
-### Deep Learning Fundamentals
-#### Udacity
-##### Status: In Progress
-###### 1 of 4 Projects completed
+### Udacity
+#### Deep Learning Fundamentals
+##### 
+###### Status: In Progress (2 of 5 Projects completed)
 
 ## Capabilities 
 * Programming Languages
