@@ -25,6 +25,9 @@ I work part-time as a data scientist for Helioserv, LTD. My duties involve a wid
   * R
   * Python
 * Technologies/Products
+  * SQL
+  * SQLite
+  * MySQL
   * Apache Avro
   * Tensorflow
   * Keras
@@ -121,6 +124,9 @@ I was tasked with designing, testing, and managing new features for the software
     * Tableau
     * Shiny
     * Plotly
+    * SQL
+    * SQLite
+    * MySQL
 * Knowledge and Skills
     * Data Science
     * Programming
