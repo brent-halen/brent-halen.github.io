@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Brent Halen
 tagline: Data Scientist, Programmer
 description: A resume/portfolio page for Brent Halen, a Data Scientist & Programmer based in Houston, Texas.
