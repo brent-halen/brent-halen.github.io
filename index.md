@@ -78,6 +78,12 @@ I was tasked with designing, testing, and managing new features for the software
 
 ## Other Training/Certification
 
+### Udacity
+#### Deep Learning Fundamentals
+##### Siraj Raval, Udacity Associates
+###### Status: Completed
+* [Certificate](https://www.dropbox.com/s/z9o7ecn6lp63pvo/nd101.pdf?dl=0)
+
 ### edX
 #### DAT203x: Data Science and Machine Learning Essentials
 ##### Microsoft
@@ -104,11 +110,6 @@ I was tasked with designing, testing, and managing new features for the software
     * [Certificate](https://www.coursera.org/account/accomplishments/certificate/DRHSVL4FMXWU)
 * R Programming
     * [Certificate](https://www.coursera.org/account/accomplishments/certificate/C4ZYUKSPT6SC)
-
-### Udacity
-#### Deep Learning Fundamentals
-##### Siraj Raval, Udacity Associates
-###### Status: In Progress (2 of 5 Projects completed)
 
 ## Capabilities 
 * Programming Languages
