@@ -8,8 +8,40 @@
 
 ## Work History
 ### Data Scientist
+#### Baylor Genetics/Baylor College of Medicine
+##### July 2017 - Present
+
+###### Summary 
+A Data Scientist (Intern) the bioinformatics team at Baylor Miraca Genetics Laboratories. My responsibilities range from predictive modeling to the development of data-driven applications that enable our geneticists to reliably analyze genetic data more quickly and efficiently. 
+
+###### Duties
+1. Built predictive models to accelerate decisions made by specialists.
+2. Designed & Developed data-driven applications that enabled our geneticists to reliably analyze genetic data more quickly and efficiently. 
+3. Constructed Database back-ends to support applications used by specialists.
+
+###### Relevant Experience
+* Programming Languages
+  * R
+  * Python
+* Technologies/Products
+  * SQL Server 2008
+  * Tensorflow
+  * Jupyter
+  * Django
+  * Shiny
+* Skills
+  * Statistical Learning
+  * Machine Learning
+  * Deep Learning
+  * Statistics
+  * Data Modeling
+  * Data Engineering
+  * Data Mining
+
+
+### Data Scientist
 #### Helioserv, LTD
-##### March 2017 - Present
+##### March 2017 - July 2017
 
 ###### Summary 
 I work part-time as a data scientist for Helioserv, LTD. My duties involve a wide range of tasks, from machine learning to data engineering. I'm required to work with a variety of programming languages and technologies in order to meet client specifications/requirements.  
@@ -25,9 +57,6 @@ I work part-time as a data scientist for Helioserv, LTD. My duties involve a wid
   * R
   * Python
 * Technologies/Products
-  * SQL
-  * SQLite
-  * MySQL
   * Apache Avro
   * Tensorflow
   * Keras
@@ -78,38 +107,15 @@ I was tasked with designing, testing, and managing new features for the software
 
 ## Other Training/Certification
 
-### Udacity
-#### Deep Learning Fundamentals
-##### Siraj Raval, Udacity Associates
-###### Status: Completed
-* [Certificate](https://www.dropbox.com/s/z9o7ecn6lp63pvo/nd101.pdf?dl=0)
+### Coursera: Data Science
+#### Johns Hopikins University
+##### Status: In Progress
+###### 9 of 10 Courses completed
 
-### edX
-#### DAT203x: Data Science and Machine Learning Essentials
-##### Microsoft
-###### Status: Completed
-* [Certificate](https://courses.edx.org/certificates/14d556e3c9fd449aa30b0f5c488c816c?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BNuT8d0m8TO%2BVyWaJxjmAUQ%3D%3D)
-
-### Coursera 
-#### Data Science
-##### Johns Hopikins University 
-###### Status: In Progress (9 of 10 Courses completed)
-* Practical Machine Learning
-    * [Certificate](https://www.coursera.org/account/accomplishments/certificate/VCUXB6VRRUN2)
-* Regression Models
-    * [Certificate](https://www.coursera.org/account/accomplishments/certificate/2QK563U8DFYR)
-* Statistical Inference
-    * [Certificate](https://www.coursera.org/account/accomplishments/certificate/KQZBDUXDLRHV)
-* Reproducible Research
-    * [Certificate](https://www.coursera.org/account/accomplishments/certificate/A93MQ48BY6PC)
-* Exploratory Data Analysis
-    * [Certificate](https://www.coursera.org/account/accomplishments/certificate/KE96K83444PU)
-* The Data Scientist's Toolbox
-    * [Certificate](https://www.coursera.org/account/accomplishments/certificate/W738M8FGQ3FJ)
-* Getting and Cleaning Data
-    * [Certificate](https://www.coursera.org/account/accomplishments/certificate/DRHSVL4FMXWU)
-* R Programming
-    * [Certificate](https://www.coursera.org/account/accomplishments/certificate/C4ZYUKSPT6SC)
+### Deep Learning Fundamentals
+#### Udacity
+##### Status: In Progress
+###### 1 of 4 Projects completed
 
 ## Capabilities 
 * Programming Languages
@@ -125,9 +131,6 @@ I was tasked with designing, testing, and managing new features for the software
     * Tableau
     * Shiny
     * Plotly
-    * SQL
-    * SQLite
-    * MySQL
 * Knowledge and Skills
     * Data Science
     * Programming
@@ -141,8 +144,8 @@ I was tasked with designing, testing, and managing new features for the software
 
 ## Portfolio
 
-* [https://brent-halen.github.io/Machine_Learning_Coursera/](https://brent-halen.github.io/Machine_Learning_Coursera/)
-* [https://github.com/brent-halen/TimeSeriesProject](https://github.com/brent-halen/TimeSeriesProject)
-* [https://github.com/brent-halen/Data_Visualization_Project_Fall2016](https://github.com/brent-halen/Data_Visualization_Project_Fall2016)
+* https://brent-halen.github.io/Machine_Learning_Coursera/
+* https://github.com/brent-halen/TimeSeriesProject
+* https://github.com/brent-halen/Data_Visualization_Project_Fall2016
 
 
