@@ -1,10 +1,6 @@
----
-layout: page
-title: Brent Halen
-tagline: Data Scientist, Programmer
-description: A resume/portfolio page for Brent Halen, a Data Scientist & Programmer based in Houston, Texas.
----
-
+# Brent Halen
+## Data Scientist, Programmer
+### Based in Houston, Texas
 
 ![Personal Photo](https://scontent-dft4-3.xx.fbcdn.net/v/t1.0-9/644198_418227671627639_95278277_n.jpg?oh=214dfafa9188d399590d68fcdef6a427&oe=599F588C)
 
@@ -12,8 +8,40 @@ description: A resume/portfolio page for Brent Halen, a Data Scientist & Program
 
 ## Work History
 ### Data Scientist
+#### Baylor Genetics/Baylor College of Medicine
+##### July 2017 - Present
+
+###### Summary 
+A Data Scientist (Intern) the bioinformatics team at Baylor Miraca Genetics Laboratories. My responsibilities range from predictive modeling to the development of data-driven applications that enable our geneticists to reliably analyze genetic data more quickly and efficiently. 
+
+###### Duties
+1. Built predictive models to accelerate decisions made by specialists.
+2. Designed & Developed data-driven applications that enabled our geneticists to reliably analyze genetic data more quickly and efficiently. 
+3. Constructed Database back-ends to support applications used by specialists.
+
+###### Relevant Experience
+* Programming Languages
+  * R
+  * Python
+* Technologies/Products
+  * SQL Server 2008
+  * Tensorflow
+  * Jupyter
+  * Django
+  * Shiny
+* Skills
+  * Statistical Learning
+  * Machine Learning
+  * Deep Learning
+  * Statistics
+  * Data Modeling
+  * Data Engineering
+  * Data Mining
+
+
+### Data Scientist
 #### Helioserv, LTD
-##### April 2017 - Present
+##### March 2017 - July 2017
 
 ###### Summary 
 I work part-time as a data scientist for Helioserv, LTD. My duties involve a wide range of tasks, from machine learning to data engineering. I'm required to work with a variety of programming languages and technologies in order to meet client specifications/requirements.  
